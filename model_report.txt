@@ -1,0 +1,13 @@
+COMPAS Model Report
+Model Performance:
+- MAE: 2.25
+
+Top Features:
+1. race_Asian: 0.33
+2. race_Other: 0.31
+3. sex_Female: 0.30
+
+Bias Analysis:
+   Group       MAE  Avg Score  Count
+0      1  2.360418   4.610648    911
+1      0  2.150171   4.038513    967
